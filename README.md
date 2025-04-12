@@ -17,11 +17,7 @@ A simple and responsive portfolio website to showcase my projects, skills, and c
 
 ## 📂 Live Demo
 
-[View Portfolio Live](https://your-username.github.io/my-portfolio/)
-
-## 📬 Contact
-
-If you'd like to get in touch, feel free to reach out via [your email] or connect with me on [LinkedIn/Twitter].
+[View Portfolio Live](https://tremy-t.github.io/Simple-Portfolio-1/)
 
 ---
 
